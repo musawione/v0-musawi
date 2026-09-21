@@ -1,15 +1,19 @@
 const skillCategories = [
   {
-    title: "Core Marketing",
-    skills: ["Brand Management", "Strategic Planning", "Campaign Execution", "Market Analysis"],
+    title: "Marketing Leadership",
+    skills: ["Brand Strategy & Positioning", "Team Building & Leadership", "Campaign Planning & Execution", "Budget Management", "Agency & Vendor Management"],
   },
   {
-    title: "Media & Creative",
-    skills: ["Media Strategy", "Social Media Management", "Video Editing", "Content Creation"],
+    title: "Performance & Growth",
+    skills: ["Performance Marketing", "Meta & Google Ads", "Lead Generation", "Conversion & ROI/ROAS Optimization", "Salesforce CRM", "Customer Acquisition"],
+  },
+  {
+    title: "Content & Media",
+    skills: ["Content Strategy", "Social Media Management", "Broadcast & Media Production", "Video Editing", "Creative Direction"],
   },
   {
     title: "Professional",
-    skills: ["Team Leadership", "Communication (Arabic & English)", "Problem-Solving", "Collaboration"],
+    skills: ["Bilingual (Arabic/English)", "Training & Mentoring", "Stakeholder Communication", "Cross-Functional Collaboration", "Problem-Solving"],
   },
 ]
 
@@ -19,7 +23,7 @@ export function SkillsSection() {
       <h2 className="text-sm font-medium text-muted-foreground uppercase tracking-wider mb-8">
         Skills
       </h2>
-      <div className="grid md:grid-cols-3 gap-8">
+      <div className="grid sm:grid-cols-2 gap-8">
         {skillCategories.map((category) => (
           <div key={category.title}>
             <h3 className="text-foreground font-medium mb-4">{category.title}</h3>

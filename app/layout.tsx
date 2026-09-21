@@ -10,11 +10,11 @@ const inter = Inter({
 })
 
 export const metadata: Metadata = {
-  title: 'Ahmed Al-Musawi | Marketing Manager',
-  description: 'Marketing Manager with 12+ years of experience driving brand growth across retail, luxury goods, media, FMCG, NGOs, and real estate.',
+  title: 'Ahmed Al-Musawi | Marketing Manager, Performance & Growth',
+  description: 'Marketing Manager with 12+ years building and running marketing functions across real estate, FMCG, media, luxury retail, and the non-profit sector.',
   openGraph: {
-    title: 'Ahmed Al-Musawi | Marketing Manager',
-    description: 'Marketing Manager with 12+ years of experience driving brand growth across retail, luxury goods, media, FMCG, NGOs, and real estate.',
+    title: 'Ahmed Al-Musawi | Marketing Manager, Performance & Growth',
+    description: 'Marketing Manager with 12+ years building and running marketing functions across real estate, FMCG, media, luxury retail, and the non-profit sector.',
     type: 'website',
   },
 }
