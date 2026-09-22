@@ -2,13 +2,15 @@ import { ArrowUpRight } from "lucide-react"
 
 const experiences = [
   {
-    company: "Nabd Al Khaleej Real Estate (Masraf Al-Tayf Group)",
+    company: "Nabd Al Khaleej Real Estate (Al-Taif Bank Group)",
     role: "Performance & Growth Specialist",
     period: "Jul 2026 - Present",
     description: [
-      "Own performance marketing and growth across the company's real estate portfolio, including Al-Rehab, Al-Zafaran, Al-Ritaj, Al-Hayat, and DAMAC-branded assets.",
+            "Own performance marketing and growth across the company's real estate portfolio, including Al-Rehab, Al-Zafaran, Al-Ritaj, Al-Hayat, DAMAC-branded, and company-owned assets.",
       "Brought cost-per-lead down to $0.35 by refining audience targeting, creative, and campaign structure.",
-      "Contributed to selling 12 apartments in a residential complex within the first 18 days on the job.",
+            "Contributed, alongside the wider marketing team, to selling 12 apartments in a residential complex within the first 18 days on the job.",
+      "Reworked messaging tone and content approach to launch fast, low-budget campaigns without sacrificing lead quality.",
+      "Manage Salesforce CRM data for segmentation, lead tracking, and sales follow-up; partner with the sales team to improve lead-to-conversion flow.",
     ],
     tags: ["Performance Marketing", "Real Estate", "CRM"],
   },
@@ -19,8 +21,8 @@ const experiences = [
     period: "Feb 2026 - Jun 2026",
     type: "Remote",
     description: [
-      "Built the service model for a paid-media venture focused on buying digital ad space and managing social media operations for local businesses.",
-      "Defined pricing, service packages, and initial client outreach before moving into an in-house growth role.",
+            "Founded Muelen, an agency specialized in buying digital ad space and managing social media operations for businesses.",
+      "Defined the service model, pricing, and packages, and secured the agency's initial clients before moving into an in-house growth role.",
     ],
     tags: ["Entrepreneurship", "Paid Media", "Social Management"],
   },
@@ -31,7 +33,9 @@ const experiences = [
     description: [
       "Set marketing direction and brand communication across multiple premium and luxury brands within the group, including executive-level B2B messaging.",
       "Built the department's functional structure and assembled its in-house production team.",
-      "Led the Elie Saab brand launch event and delivered an Asbagh Burger campaign that drove 1,200 branch visits in 10 days.",
+            "Led the internal launch event introducing Elie Saab as a new luxury brand within the group.",
+      "Planned, coordinated, and delivered the Al-Omran Award for Architects event end-to-end.",
+      "Delivered an awareness and store-visit campaign for Asbagh Burger that drove 1,200 branch visits in 10 days on a limited budget.",
     ],
     tags: ["Brand Strategy", "Luxury", "B2B Marketing"],
   },
@@ -43,7 +47,9 @@ const experiences = [
     description: [
       "Led the marketing department and a cross-functional team serving multiple agency clients.",
       "Launched 10 brands in Najaf spanning restaurants, clinics, and a woodworking manufacturer.",
+      "Directed visual identity development and full marketing management for several resale and clinic brand accounts.",
       "Ran seasonal and occasion-based campaigns that lifted sales and brand awareness for multiple clients.",
+      "Managed the production and social media teams; advised business owners on social account security.",
     ],
     tags: ["Agency", "Campaign Management", "Team Leadership"],
   },
@@ -65,8 +71,10 @@ const experiences = [
     period: "Jul 2023 - Jul 2024",
     description: [
       "Built the brand's marketing team from the ground up.",
-      "Led national campaigns that grew brand engagement 35% and sales 20%, managing Meta and Google advertising to a 4.2x ROAS.",
-      "Oversaw the factory's public-facing brand presence and coordinated in-house and contracted agencies.",
+            'Led national campaigns that grew brand engagement 35% and sales 20%, including the Indomie Mi Goreng launch and a Ramadan "Iftar Indomie" community campaign for security personnel.',
+      "Managed Meta and Google advertising to a 4.2x ROAS.",
+            "Oversaw the factory's public-facing brand presence and designed department-specific staff uniforms compliant with food-industry and global brand standards.",
+      "Coordinated the in-house team with contracted social media, production, and influencer agencies.",
     ],
     tags: ["FMCG", "Digital Advertising", "Brand Growth"],
   },
