@@ -17,6 +17,9 @@ export const metadata: Metadata = {
     description: 'Marketing Manager with 12+ years building and running marketing functions across real estate, FMCG, media, luxury retail, and the non-profit sector.',
     type: 'website',
   },
+  icons: {
+    icon: '/logo.png',
+  },
 }
 
 export default function RootLayout({
