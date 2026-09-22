@@ -10,8 +10,7 @@ const clients = [
   "Fresh Fries",
   "Awraq",
   "Startup Grind",
-  "Fuel Over Studio",
-]
+  "Voice Over Studio",]
 
 export function FreelanceSection() {
   return (
