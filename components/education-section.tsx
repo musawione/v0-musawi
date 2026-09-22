@@ -1,14 +1,14 @@
-import { GraduationCap, Award } from "lucide-react"
+import { GraduationCap, Award, Languages } from "lucide-react"
 
 const certifications = [
   {
-    name: "Train of Trainers (TOT)",
+    name: "Training of Trainers (TOT)",
     issuer: "The International Foundation for Electoral Systems (IFES)",
     year: "2021",
   },
   {
     name: "Social Media Strategy",
-    issuer: "Learn N' Digital",
+    issuer: "Learn n' Digital",
     year: "2019",
   },
   {
@@ -28,15 +28,27 @@ export function EducationSection() {
         Education & Certifications
       </h2>
       <div className="grid md:grid-cols-2 gap-12">
-        <div>
-          <div className="flex items-center gap-2 mb-4">
-            <GraduationCap className="w-5 h-5 text-accent" />
-            <h3 className="text-foreground font-medium">Education</h3>
+        <div className="space-y-10">
+          <div>
+            <div className="flex items-center gap-2 mb-4">
+              <GraduationCap className="w-5 h-5 text-accent" />
+              <h3 className="text-foreground font-medium">Education</h3>
+            </div>
+            <div className="space-y-2">
+              <p className="text-foreground">B.Sc. in Computer Science</p>
+              <p className="text-muted-foreground text-sm">Al-Ma&apos;mon University College</p>
+              <p className="text-muted-foreground text-sm">2014 - 2018</p>
+            </div>
           </div>
-          <div className="space-y-2">
-            <p className="text-foreground">B.Sc. in Computer Science</p>
-            <p className="text-muted-foreground text-sm">Al-Ma&apos;moon University College</p>
-            <p className="text-muted-foreground text-sm">2014 - 2018</p>
+          <div>
+            <div className="flex items-center gap-2 mb-4">
+              <Languages className="w-5 h-5 text-accent" />
+              <h3 className="text-foreground font-medium">Languages</h3>
+            </div>
+            <div className="space-y-1">
+              <p className="text-muted-foreground text-sm">Arabic — Native</p>
+              <p className="text-muted-foreground text-sm">English — Professional Working Proficiency</p>
+            </div>
           </div>
         </div>
         <div>

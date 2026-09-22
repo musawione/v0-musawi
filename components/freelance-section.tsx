@@ -1,11 +1,16 @@
 const clients = [
   "UNHCR",
+  "Al-Fursan Program",
+  "Hurr Platform",
+  "Itar (SaaS)",
+  "Al-Enjaz Architecture",
+  "Sawghat Ahlana (Iraqi Airways)",
+  "Abdul Samad Al Qurashi",
+  "Nafisa",
   "Fresh Fries",
   "Awraq",
-  "Al-Enjaz Architecture",
   "Startup Grind",
-  "Step 2",
-  "Taqa for Real Estate",
+  "Fuel Over Studio",
 ]
 
 export function FreelanceSection() {
@@ -16,10 +21,10 @@ export function FreelanceSection() {
       </h2>
       <div className="space-y-6">
         <p className="text-foreground leading-relaxed max-w-3xl">
-          <span className="text-accent font-medium">2016 - Present</span>
+          <span className="text-accent font-medium">2016 - 2025</span>
           <span className="mx-2 text-muted-foreground">|</span>
-          Collaborated with 15+ clients delivering marketing strategies, digital campaigns, 
-          and content solutions across commercial, creative, and humanitarian sectors.
+          Delivered marketing strategy, digital campaigns, and content solutions for 15+ clients
+          across commercial, creative, and humanitarian sectors.
         </p>
         <div className="space-y-4">
           <h3 className="text-sm text-muted-foreground">Notable Clients</h3>
