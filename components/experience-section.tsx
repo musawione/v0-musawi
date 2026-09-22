@@ -13,7 +13,7 @@ const experiences = [
     tags: ["Performance Marketing", "Real Estate", "CRM"],
   },
   {
-    company: "Independent Paid Media & Social Management Venture",
+    company: "Muelen (مُعلِن)",
     role: "Founder",
     period: "Feb 2026 - Jun 2026",
     type: "Remote",
