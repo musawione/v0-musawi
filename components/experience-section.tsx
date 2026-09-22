@@ -14,6 +14,7 @@ const experiences = [
   },
   {
     company: "Muelen (مُعلِن)",
+    link: "https://muelen.com",
     role: "Founder",
     period: "Feb 2026 - Jun 2026",
     type: "Remote",
@@ -172,7 +173,11 @@ export function ExperienceSection() {
                     {exp.role}
                   </h3>
                   <p className="text-muted-foreground flex items-center gap-1">
-                    {exp.company}
+                    {exp.link ? (
+                  <a href={exp.link} target="_blank" rel="noopener noreferrer" className="hover:text-accent transition-colors">{exp.company}</a>
+                ) : (
+                  exp.company
+                )}
                     <ArrowUpRight className="w-3 h-3 opacity-0 group-hover:opacity-100 transition-opacity" />
                   </p>
                 </div>
