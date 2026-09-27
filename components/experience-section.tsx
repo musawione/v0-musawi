@@ -2,31 +2,6 @@ import { ArrowUpRight } from "lucide-react"
 
 const experiences = [
   {
-    company: "Nabd Al Khaleej Real Estate (Al-Taif Bank Group)",
-    role: "Performance & Growth Specialist",
-    period: "Jul 2026 - Present",
-    description: [
-            "Own performance marketing and growth across the company's real estate portfolio, including Al-Rehab, Al-Zafaran, Al-Ritaj, Al-Hayat, DAMAC-branded, and company-owned assets.",
-      "Brought cost-per-lead down to $0.35 by refining audience targeting, creative, and campaign structure.",
-            "Contributed, alongside the wider marketing team, to selling 12 apartments in a residential complex within the first 18 days on the job.",
-      "Reworked messaging tone and content approach to launch fast, low-budget campaigns without sacrificing lead quality.",
-      "Manage Salesforce CRM data for segmentation, lead tracking, and sales follow-up; partner with the sales team to improve lead-to-conversion flow.",
-    ],
-    tags: ["Performance Marketing", "Real Estate", "CRM"],
-  },
-  {
-    company: "Muelen (مُعلِن)",
-    link: "https://muelen.com",
-    role: "Founder",
-    period: "Feb 2026 - Jun 2026",
-    type: "Remote",
-    description: [
-            "Founded Muelen, an agency specialized in buying digital ad space and managing social media operations for businesses.",
-      "Defined the service model, pricing, and packages, and secured the agency's initial clients before moving into an in-house growth role.",
-    ],
-    tags: ["Entrepreneurship", "Paid Media", "Social Management"],
-  },
-  {
     company: "Al-Omran Group",
     role: "Senior Marketing Specialist",
     period: "Aug 2025 - Feb 2026",
