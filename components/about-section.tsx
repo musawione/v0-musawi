@@ -6,7 +6,7 @@ export function AboutSection() {
       </h2>
       <div className="space-y-6">
         <p className="text-foreground text-lg leading-relaxed max-w-3xl">
-          Marketing Manager with 12+ years building and running marketing functions across
+          Marketing Manager with 10+ years building and running marketing functions across
           real estate, FMCG, media, luxury retail, and the non-profit sector. Experienced
           across the full range, from brand positioning, content, and campaign strategy to
           performance marketing, paid media, and CRM-driven lead management.

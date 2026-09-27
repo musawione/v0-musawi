@@ -10,13 +10,10 @@ export function HeroSection() {
           <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold tracking-tight text-foreground">
             Ahmed Al-Musawi
           </h1>
-          <p className="text-xl md:text-2xl text-accent font-medium">
-            Marketing Manager | Performance & Growth Marketing
-          </p>
         </div>
 
         <p className="text-muted-foreground text-lg md:text-xl max-w-2xl leading-relaxed">
-          Marketing Manager with 12+ years building and running marketing functions across
+          Marketing Manager with 10+ years building and running marketing functions across
           real estate, FMCG, media, luxury retail, and the non-profit sector — from brand
           strategy to performance marketing and CRM-driven lead management.
         </p>
