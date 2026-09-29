@@ -12,8 +12,7 @@ export function AboutSection() {
           performance marketing, paid media, and CRM-driven lead management.
         </p>
         <p className="text-muted-foreground leading-relaxed max-w-3xl">
-          Track record includes a 4.2x ROAS on a national FMCG campaign and a 15,000-download
-          app launch. Builds
+          Track record includes a 15,000-download app launch in three months. Builds
           marketing teams and production capability from the ground up, manages agency and
           vendor relationships, and works comfortably with both creative and performance data.
           I hold a B.Sc. in Computer Science from Al-Ma&apos;mon University College and am
